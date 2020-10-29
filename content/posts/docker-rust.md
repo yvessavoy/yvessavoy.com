@@ -1,7 +1,7 @@
 ---
 title: "Docker + Rust"
 date: 2020-10-29T11:39:31+01:00
-draft: true
+draft: false
 ---
 In this post we're gonna look at how you can package rust projects in docker and cache cargo dependencies for faster subsequent builds.
 
