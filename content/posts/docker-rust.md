@@ -1,13 +1,13 @@
 ---
-title: "Docker + Rust"
+title: "Fast rust builds with Docker"
 date: 2020-10-29T11:39:31+01:00
 draft: false
 ---
 In this post we're gonna look at how you can package rust projects in docker and cache cargo dependencies for faster subsequent builds.
 
 ## Prerequisites
-- Rust installed
-- Docker installed
+- Rust installed ([Install here](https://rustup.rs/))
+- Docker installed ([Install here](https://docs.docker.com/get-docker/))
 
 ## Getting started
 Before we can dive into docker we first have to create a new cargo project.
