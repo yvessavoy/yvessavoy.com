@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Yves Savoy"
 theme = "hello-friend"
 paginate = 5
+enableRobotsTXT = true
 
 [params]
   contentTypeName = "posts"
