@@ -14,8 +14,8 @@ enableRobotsTXT = true
 [languages]
   [languages.en]
     title = "Yves Savoy"
-    subtitle = "A blog about software"
-    keywords = ""
+    subtitle = "A blog about software development"
+    keywords = "rust,software,development,programming"
     copyright = ""
     menuMore = "Show more"
     writtenBy = "Written by"
